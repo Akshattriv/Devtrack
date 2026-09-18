@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Bug In CSS",
+    "description": "there is a css error in the about us page",
+    "status": "open",
+    "priority": "low",
+    "reporter_id": 7,
+    "created_at": "17-09-2026 13:01"
+  },
+  {
+    "id": null,
+    "title": "Bug In payment processing",
+    "description": "there is a error in the payment page where the page times out after user puts in card details and proceeds to pay",
+    "status": "closed",
+    "priority": "critical",
+    "reporter_id": 9,
+    "created_at": "17-09-2026 13:01"
+  }
+]
